@@ -35,6 +35,11 @@ export class TodosComponent implements OnInit {
         title: 'Todo 4',
         completed: false
       },
+      {
+        id: 5,
+        title: 'Todo 5',
+        completed: false
+      },
     ]
 
   }
